@@ -64,3 +64,21 @@ font-weight: bold;}
     border-right:#F0F8FF 1px solid;
     list-style-type:none;
 }
+
+#textshadow{
+padding: 0 40px;
+font-size: 30px;
+}
+
+.drop_shadow{
+text-shadow: 2px 2px 3px #708090;
+}
+
+#boxshadow{
+ font-size: 30px;
+}
+
+.inset_shadow{
+ box-shadow: 2px 2px 5px #A9A9A9 inset; padding: 5px; margin: 20px;
+}
+
