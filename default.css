@@ -82,3 +82,5 @@ text-shadow: 2px 2px 3px #708090;
  box-shadow: 2px 2px 5px #A9A9A9 inset; padding: 5px; margin: 20px;
 }
 
+ h1 span{font-size:2.0em;
+font-weight: bold;}
