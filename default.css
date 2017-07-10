@@ -52,3 +52,15 @@ font-weight: bold;}
   float: left;
   overflow: auto;
 }
+
+#gnav ul{
+    overflow: hidden;
+    background-color:#ffa500;
+}
+
+#gnav li{
+    float:left;
+    width:156px;
+    border-right:#F0F8FF 1px solid;
+    list-style-type:none;
+}
