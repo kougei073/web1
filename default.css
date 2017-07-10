@@ -29,15 +29,8 @@ left: 50px;
 top: 50px;
 }
 
-aside{background-color:#191970;
-width:200;
-float:right;
-position: relative;
-top: 20px;
-right: 10px;
-}
-
 footer{background-color:#ff4500;
+position: fixed;
 clear:both;}
 
 h1 span{font-size:2.0em;
